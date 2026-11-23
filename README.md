@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:00d4aa&height=220&section=header&text=Vancy%20Agnes%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20Intern%20%7C%20Full-Stack%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,100:00d4aa&height=220&section=header&text=Vancy%20Agnes%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Tech%20Explorer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+and+shipping+production+features+%F0%9F%9A%80;React+%7C+Python+%7C+Flask+%7C+ASP.NET+%7C+Azure+%E2%9A%A1" alt="Typing SVG" /></a>
@@ -27,16 +27,17 @@ Name:       Vancy Agnes Fernandes
 Location:   Goa, India 🇮🇳
 Education:  B.E. Information Technology (2026) @ Shree Rayeshwar Institute of Engineering & IT
 CGPA:       8.81
-Role:       Software Developer Intern @ Mograsys Technologies
+Role:       Technical Assistant @ Goa Courier Service
 Certified:  Microsoft Azure Fundamentals (AZ-900)
-Past Roles: HackerRank Campus Ambassador | VP, ELITE IT Club
-Status:     Open to full-time opportunities 🟢
+Past Roles: Software Developer Intern @ Mograsys | HackerRank Campus Ambassador | VP, ELITE IT Club
+Status:     Open to Opportunities 🟢
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 💼 Currently a **Software Developer Intern at Mograsys Technologies**, working on a production **EdTech platform** (AngularJS, ASP.NET, MS SQL Server)
-- 🐞 Day to day: integrating mini applications, resolving client tickets, debugging, and functional testing
+- 💼 Currently a **Technical Assistant at Goa Courier Service** (Madgaon, Goa)
+- 🖥️ Previously a **Software Developer Intern at Mograsys Technologies**, working on a production **EdTech platform** (AngularJS, ASP.NET, MS SQL Server)
+- 🐞 At Mograsys: integrated mini applications, resolved client tickets, debugged, and did functional testing
 - 🤖 Comfortable using **AI-assisted tools** to understand unfamiliar code and diagnose issues faster
 - ☁️ **Azure AZ-900 certified**, familiar with **Docker**, **Azure DevOps** and **GitHub Actions**
 - 🎓 Graduated **B.E. Information Technology (2026)** with a **8.81 CGPA**
@@ -99,15 +100,18 @@ Status:     Open to full-time opportunities 🟢
 ## 💼 Experience
 
 ```
-🔹 Software Developer Intern @ Mograsys Technologies LLC    Jul 2026 — Present
-   Margao, Goa (On-site)
-   → Integrate mini applications into a production EdTech platform
+🔹 Technical Assistant @ Goa Courier Service                 Nov 2026 — Present
+   Madgaon, Goa (On-site, Full-time)
+
+🔹 Software Developer Intern @ Mograsys Technologies LLC     Jul 2026 — Oct 2026
+   Madgaon, Goa (On-site)
+   → Integrated mini applications into a production EdTech platform
      (AngularJS, Bootstrap, ASP.NET, MS SQL Server)
-   → Resolve client-raised tickets: reproduce issues, trace application
-     behaviour and ship fixes
-   → Compare stored procedures in SSMS to verify database changes and
-     catch unintended differences
-   → Functional testing, bug verification and code updates that meet
+   → Resolved client-raised tickets: reproduced issues, traced application
+     behaviour and shipped fixes
+   → Compared stored procedures in SSMS to verify database changes and
+     caught unintended differences
+   → Functional testing, bug verification and code updates that met
      internal review standards
 
 🔹 Intern @ Fluxatic Global                                   Nov 2025 — Present
